@@ -17,7 +17,8 @@ Full book is free and available through https://www.statlearning.com/
 6. Linear Model Selection and Regularization
 7. Moving Beyond Linearity
 8. Tree-Based Methods
-10. Support Vector Machines
-11. Deep Learning
-12. Survival Analysis and Censored Data
-13. Unsupervised Learning
+9. Support Vector Machines
+10. Deep Learning
+11. Survival Analysis and Censored Data
+12. Unsupervised Learning
+13. Multiple Testing
